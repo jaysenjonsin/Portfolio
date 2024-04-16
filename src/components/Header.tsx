@@ -6,7 +6,7 @@ type Props = {};
 const Header = (props: Props) => {
   return (
     <nav id='desktop-nav'>
-      <div className='logo'>Jason Johnson logo here </div>
+      <div className='logo'>Logo </div>
       <div>
         <ul className='nav-links'>
           <li>
