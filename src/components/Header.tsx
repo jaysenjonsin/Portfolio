@@ -77,7 +77,7 @@ const Header = (props: Props) => {
             height={500}
             alt='Jason Johnson profile pic'
           ></Image> */}
-          <img src='/JasonJohnson.jpeg' alt='' />
+          <img src='/Jasonjohnson.jpeg' alt='' />
         </div>
         <div className='section__text'>
           <p className='section__text__p1'>Hello, I'm</p>
