@@ -56,9 +56,7 @@ const AboutSection = (props: Props) => {
         src='/arrow.png'
         alt='Arrow icon'
         className='icon arrow'
-        onClick={() => {
-          location.href = './#experience';
-        }}
+        // onclick="location.href='./#experience'"
       />
     </section>
   );
