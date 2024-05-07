@@ -9,7 +9,7 @@ const ExperienceSection = (props: Props) => {
       <h1 className='title'>Experience</h1>
       <div className='experience-details-container'>
         <div className='about-containers'>
-          <div className='detail-containers'>
+          <div className='details-container'>
             <h2 className='experience-sub-title'>Frontend Development</h2>
             <div className='article-container'>
               <article>
@@ -69,7 +69,7 @@ const ExperienceSection = (props: Props) => {
               </article>
             </div>
           </div>
-          <div className='detail-containers'>
+          <div className='details-container'>
             <h2 className='experience-sub-title'>Backend Development</h2>
             <div className='article-container'>
               <article>
