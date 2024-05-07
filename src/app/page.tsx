@@ -4,6 +4,7 @@ import Header from '../components/Header';
 import ProfileSection from '../components/ProfileSection';
 import AboutSection from '../components/AboutSection';
 import ExperienceSection from '../components/ExperienceSection';
+import ProjectSection from '../components/ProjectSection';
 
 export default function Home() {
   return (
@@ -12,6 +13,7 @@ export default function Home() {
       <ProfileSection />
       <AboutSection />
       <ExperienceSection />
+      <ProjectSection />
     </main>
   );
 }
