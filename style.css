@@ -154,6 +154,11 @@ section {
   margin: auto 0;
 }
 
+.section__pic-container img {
+  object-fit: cover;
+  border-radius: 20%;
+}
+
 .section__text {
   align-self: center;
   text-align: center;
